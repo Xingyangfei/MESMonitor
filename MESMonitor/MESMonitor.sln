@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35731.53
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MESMonitor", "MESMonitor\MESMonitor.csproj", "{73A1C6E4-4A5B-4AD7-BC57-9E4C2728A40B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73A1C6E4-4A5B-4AD7-BC57-9E4C2728A40B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73A1C6E4-4A5B-4AD7-BC57-9E4C2728A40B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73A1C6E4-4A5B-4AD7-BC57-9E4C2728A40B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73A1C6E4-4A5B-4AD7-BC57-9E4C2728A40B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B981BD24-331D-4DCD-87A1-C6C64B14DDFC}
+	EndGlobalSection
+EndGlobal

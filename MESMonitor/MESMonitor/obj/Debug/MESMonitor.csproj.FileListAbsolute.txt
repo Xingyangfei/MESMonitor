@@ -1,0 +1,7 @@
+E:\vs2019workspace\MESMonitor\MESMonitor\bin\Debug\MESMonitor.exe.config
+E:\vs2019workspace\MESMonitor\MESMonitor\bin\Debug\MESMonitor.exe
+E:\vs2019workspace\MESMonitor\MESMonitor\bin\Debug\MESMonitor.pdb
+E:\vs2019workspace\MESMonitor\MESMonitor\obj\Debug\MESMonitor.csproj.AssemblyReference.cache
+E:\vs2019workspace\MESMonitor\MESMonitor\obj\Debug\MESMonitor.csproj.CoreCompileInputs.cache
+E:\vs2019workspace\MESMonitor\MESMonitor\obj\Debug\MESMonitor.exe
+E:\vs2019workspace\MESMonitor\MESMonitor\obj\Debug\MESMonitor.pdb
